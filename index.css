@@ -34,8 +34,8 @@ p {
 .picture1 { 
     max-width: 200px; /* Control the size of the bathtub image */
     margin-left: 20px; /* Adds space between the image and text */
-    height: 170px;
-    width: 120px;
+    height: 300px;
+    width: 170px;
     margin-bottom: 10px;
 }
 
