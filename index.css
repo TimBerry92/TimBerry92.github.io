@@ -21,6 +21,7 @@ p {
     color: blue;
     display: flex;
     overflow-y: auto;
+    max-height: 100vh;
 
 }
 
