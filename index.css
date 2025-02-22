@@ -50,10 +50,4 @@ p {
     clear: both;
 }
 
-.image-container {
-    margin-left: 20px; /* Adds space between the image and text */
-    height: 170px;
-    width: 120px;
-    margin-bottom: 10px;
-}
 
