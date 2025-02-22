@@ -33,8 +33,6 @@ p {
             margin-bottom: 20px; /* Optional: Add space below the section */
             border-radius: 10px; /* Optional: Rounded corners */
             max-width: 100%; /* Ensure it takes up available width */
-            box-sizing: border-box; /* Ensure padding and border are included in width */
-            overflow-wrap: break-word; /* Break long words to prevent overflow */
 }
 
 .picture1 { 
