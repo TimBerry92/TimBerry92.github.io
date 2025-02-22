@@ -33,8 +33,12 @@ p {
     
 }
 
-.picture[src="bathtub.jpg"] {
-    float: right;
-    margin-left: 20px; /* Optional: Adds space between the two images */
+.picture.float-right {
+    float: right; /* Aligns the image to the right side */
+    margin-left: 20px; /* Adds some space between the text and the image */
+    margin-top: 10px; /* Adds space between the image and the paragraph */
+    max-width: 250px; /* Optionally, control the width of the image */
 }
+
+
 
