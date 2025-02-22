@@ -1,12 +1,3 @@
-.picture { 
-height: 170px;
-width: 120px;
-float: left;
-margin-right: 15px;
-max-width: 150px;
-margin-bottom: 10px;
-}
-
 
 h1 {
     font-size: 40px;
@@ -30,3 +21,18 @@ p {
     color: blue;
 
 }
+
+.image-container {
+    position: relative;
+    width: 100%; /* Optional: Makes the container full width */
+}
+
+.picture {
+    max-width: 100%; /* Ensures images don't exceed their container width */
+}
+
+.picture[src="bathtub.jpg"] {
+    float: right;
+    margin-left: 20px; /* Optional: Adds space between the two images */
+}
+
