@@ -25,6 +25,10 @@ p {
 .line1 {
     display: flex; /* Flexbox layout to align the text and image side by side */
     align-items: center; /* Vertically align the text and image */
+            border: 2px solid #000; /* Add a border around the container */
+            padding: 10px; /* Add padding inside the border */
+            margin-bottom: 20px; /* Optional: Add space below the section */
+            border-radius: 10px; /* Optional: Rounded corners */
 }
 
 .picture2 { 
