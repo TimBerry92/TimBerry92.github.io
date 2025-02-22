@@ -22,23 +22,24 @@ p {
 
 }
 
-.image-container {
-    position: relative;
-    width: 170px; /* Optional: Makes the container full width */
+.line1 {
+    display: flex; /* Flexbox layout to align the text and image side by side */
+    align-items: center; /* Vertically align the text and image */
 }
 
+.picture2 { 
+    max-width: 200px; /* Control the size of the bathtub image */
+    margin-left: 20px; /* Adds space between the image and text */
+}
+
+/* Optional: Styling for other images to keep them organized */
 .picture {
-    max-width: 120px; /* Ensures images don't exceed their container width */
-    height: 170px;
-    
+    max-width: 200px;
+    margin: 10px;
 }
 
-.picture1 {
-    float: right; /* Aligns the image to the right side */
-    margin-left: 150px; /* Adds some space between the text and the image */
-    margin-top: 10px; /* Adds space between the image and the paragraph */
-    max-width: 250px; /* Optionally, control the width of the image */
+/* Clear any floated elements to prevent layout issues */
+.clear {
+    clear: both;
 }
-
-
 
