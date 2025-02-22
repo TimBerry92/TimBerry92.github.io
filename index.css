@@ -28,7 +28,7 @@ p {
 }
 
 .picture {
-    max-width: 150px; /* Ensures images don't exceed their container width */
+    max-width: 120px; /* Ensures images don't exceed their container width */
     height: 170px;
     
 }
