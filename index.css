@@ -24,11 +24,13 @@ p {
 
 .image-container {
     position: relative;
-    width: 100%; /* Optional: Makes the container full width */
+    width: 170px; /* Optional: Makes the container full width */
 }
 
 .picture {
-    max-width: 100%; /* Ensures images don't exceed their container width */
+    max-width: 150px; /* Ensures images don't exceed their container width */
+    height: 170px;
+    
 }
 
 .picture[src="bathtub.jpg"] {
