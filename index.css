@@ -51,7 +51,6 @@ p {
 }
 
 .image-container {
-    max-width: 200px; /* Control the size of the bathtub image */
     margin-left: 20px; /* Adds space between the image and text */
     height: 170px;
     width: 120px;
