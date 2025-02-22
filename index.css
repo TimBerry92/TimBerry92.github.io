@@ -22,11 +22,11 @@ h4 {
 p {
     border: 2px dashed green;
     height: 150px;
-    width: 300px;
+    width: 600px;
     padding: 20px;
-    font-size: 20px;
+    font-size: 16px;
     font-family: Verdana;
     font-weight: bold;
-    color: red;
+    color: blue;
 
 }
