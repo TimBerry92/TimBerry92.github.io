@@ -53,6 +53,15 @@ p {
     
 }
 
+.picture2 {
+    height: 300px;
+    width: 400px;
+    margin-left: 20px
+    marign-bottom: 10px;
+    max-width: 200px; /* Control the size of the bathtub image */
+    margin-left: 20px; /* Adds space between the image and text */
+}
+
 /* Clear any floated elements to prevent layout issues */
 .clear {
     clear: both;
