@@ -19,6 +19,8 @@ p {
     font-family: Verdana;
     font-weight: bold;
     color: blue;
+    word-wrap: break-word; /* Make sure text breaks within the box */
+    max-width: 100%; /* Ensures the paragraph text stays within the box */
 
 }
 
