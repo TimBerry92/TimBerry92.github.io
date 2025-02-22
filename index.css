@@ -20,8 +20,11 @@ p {
     font-weight: bold;
     color: blue;
     display: flex;
-    overflow-y: auto;
-    max-height: 100vh;
+    flex-direction: column; /* Stack the text and images vertically on smaller screens */
+    align-items: flex-start; /* Align text and images to the left */
+    overflow-x: auto; /* Enable horizontal scrolling when needed */
+    white-space: nowrap; /* Prevent the text from wrapping */
+    max-width: 100%; /* Ensure section doesn't exceed container width */
 
 }
 
