@@ -19,6 +19,7 @@ p {
     font-family: Verdana;
     font-weight: bold;
     color: blue;
+    display: flex;
 flex-wrap: wrap;
 
 }
