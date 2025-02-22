@@ -13,12 +13,12 @@ h4 {
 p {
     border: 2px dashed red;
     height: 200px;
-    width: 1200px;
+    width: 600px;
     padding: 30px;
     font-size: 26px;
     font-family: Verdana;
     font-weight: bold;
-    color: blue;
+    color: green;
 
 }
 
