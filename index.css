@@ -41,8 +41,8 @@ p {
 
 /* Optional: Styling for other images to keep them organized */
 .picture {
-    height: 170px;
-    width: 120px;
+    height: 300px;
+    width: 200px;
     margin-left: 20px
     marign-bottom: 10px;
     max-width: 200px; /* Control the size of the bathtub image */
