@@ -60,10 +60,10 @@ p {
 
 .picture2 {
     height: 250px;
-    width: 500px;
+    width: 550px;
     margin-left: 20px
     marign-bottom: 10px;
-    max-width: 200px; /* Control the size of the bathtub image */
+    max-width: 300px; /* Control the size of the bathtub image */
     margin-left: 20px; /* Adds space between the image and text */
 }
 
