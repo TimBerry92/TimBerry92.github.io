@@ -71,4 +71,9 @@ p {
     clear: both;
 }
 
+@media (max-width: 480px) {
+  img {
+    width: 90%; /* Make image a bit smaller on mobile screens */
+  }
+
 
